@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Vinay\\Documents\\GitHub\\btp-tts\\ScreenReader\\app\\build\\intermediates\\res\\merged\\debug\\xml\\accessibility_service_config.xml",
+        "source": "C:\\Users\\Vinay\\Documents\\GitHub\\btp-tts\\ScreenReader\\app\\src\\main\\res\\xml\\accessibility_service_config.xml"
+    },
+    {
+        "merged": "C:\\Users\\Vinay\\Documents\\GitHub\\btp-tts\\ScreenReader\\app\\build\\intermediates\\res\\merged\\debug\\xml\\preferences.xml",
+        "source": "C:\\Users\\Vinay\\Documents\\GitHub\\btp-tts\\ScreenReader\\app\\src\\main\\res\\xml\\preferences.xml"
+    }
+]

@@ -1,0 +1,108 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:2:1-41:12
+	xmlns:android
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:2:11-69
+	package
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:3:5-45
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.BIND_ACCESSIBILITY_SERVICE
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:4:5-85
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:4:22-82
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:5:5-80
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:5:22-78
+uses-permission#com.google.android.marvin.feedback.permission.TALKBACK
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:7:5-94
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:7:22-91
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:8:22-75
+application
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:9:5-39:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:14:9-40
+service#com.example.vinay.screenreader.MyScreenReaderService
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:15:9-31:19
+	android:label
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:19:13-50
+	android:exported
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:18:13-36
+	android:enabled
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:17:13-35
+	android:permission
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:20:13-79
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:16:13-50
+intent-filter#android.accessibilityservice.AccessibilityService+android.accessibilityservice.category.FEEDBACK_AUDIBLE+android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:21:13-26:29
+action#android.accessibilityservice.AccessibilityService
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:22:17-92
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:22:25-89
+category#android.accessibilityservice.category.FEEDBACK_AUDIBLE
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:24:17-99
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:24:27-96
+category#android.accessibilityservice.category.FEEDBACK_SPOKEN
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:25:17-98
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:25:27-95
+meta-data#android.accessibilityservice
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:28:13-30:72
+	android:resource
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:29:17-60
+activity#com.example.vinay.screenreader.ServiceSettingsActivity
+ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:35:9-38:59
+	android:label
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:37:13-68
+	android:theme
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:38:13-56
+	android:name
+		ADDED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml:36:13-52
+uses-sdk
+INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Vinay\Documents\GitHub\btp-tts\ScreenReader\app\src\main\AndroidManifest.xml
